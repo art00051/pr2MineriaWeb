@@ -19,7 +19,7 @@ dataset = 'news_reducido.csv'
 
 semillas = [42, 640, 5300742]
 pesos = ["uniform", "distance"]
-valor_p = [1, 2] # [1, 2, 3, 5, 7, 10]
+valor_p = [1, 2] # [1, 2, 3, 5, 7, 100]
 valor_k = [3, 4, 5, 6, 7, 10]
 
 # Leer los datos en formato csv
