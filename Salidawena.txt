@@ -1,0 +1,446 @@
+Fold 1: 0.425
+Fold 2: 0.395
+Fold 3: 0.39
+Fold 4: 0.4195
+Fold 5: 0.411
+semilla=640 | vec=binary | peso=uniform | p=1 | k=3 → acc=0.40809999999999996
+Fold 1: 0.395
+Fold 2: 0.385
+Fold 3: 0.3775
+Fold 4: 0.38
+Fold 5: 0.3815
+semilla=640 | vec=binary | peso=uniform | p=1 | k=4 → acc=0.38380000000000003
+Fold 1: 0.3935
+Fold 2: 0.377
+Fold 3: 0.374
+Fold 4: 0.387
+Fold 5: 0.3745
+semilla=640 | vec=binary | peso=uniform | p=1 | k=5 → acc=0.3812
+Fold 1: 0.3885
+Fold 2: 0.3715
+Fold 3: 0.3695
+Fold 4: 0.368
+Fold 5: 0.3735
+semilla=640 | vec=binary | peso=uniform | p=1 | k=6 → acc=0.3742
+Fold 1: 0.386
+Fold 2: 0.3675
+Fold 3: 0.368
+Fold 4: 0.3745
+Fold 5: 0.3715
+semilla=640 | vec=binary | peso=uniform | p=1 | k=7 → acc=0.37350000000000005
+Fold 1: 0.388
+Fold 2: 0.363
+Fold 3: 0.352
+Fold 4: 0.359
+Fold 5: 0.3675
+semilla=640 | vec=binary | peso=uniform | p=1 | k=10 → acc=0.3659
+Fold 1: 0.425
+Fold 2: 0.395
+Fold 3: 0.39
+Fold 4: 0.4195
+Fold 5: 0.411
+semilla=640 | vec=binary | peso=uniform | p=2 | k=3 → acc=0.40809999999999996
+Fold 1: 0.395
+Fold 2: 0.385
+Fold 3: 0.3775
+Fold 4: 0.38
+Fold 5: 0.3815
+semilla=640 | vec=binary | peso=uniform | p=2 | k=4 → acc=0.38380000000000003
+Fold 1: 0.3935
+Fold 2: 0.377
+Fold 3: 0.374
+Fold 4: 0.387
+Fold 5: 0.3745
+semilla=640 | vec=binary | peso=uniform | p=2 | k=5 → acc=0.3812
+Fold 1: 0.3885
+Fold 2: 0.3715
+Fold 3: 0.3695
+Fold 4: 0.368
+Fold 5: 0.3735
+semilla=640 | vec=binary | peso=uniform | p=2 | k=6 → acc=0.3742
+Fold 1: 0.386
+Fold 2: 0.3675
+Fold 3: 0.368
+Fold 4: 0.3745
+Fold 5: 0.3715
+semilla=640 | vec=binary | peso=uniform | p=2 | k=7 → acc=0.37350000000000005
+Fold 1: 0.388
+Fold 2: 0.363
+Fold 3: 0.352
+Fold 4: 0.359
+Fold 5: 0.3675
+semilla=640 | vec=binary | peso=uniform | p=2 | k=10 → acc=0.3659
+Fold 1: 0.43
+Fold 2: 0.402
+Fold 3: 0.3995
+Fold 4: 0.4235
+Fold 5: 0.4235
+semilla=640 | vec=binary | peso=distance | p=1 | k=3 → acc=0.4157
+Fold 1: 0.4105
+Fold 2: 0.397
+Fold 3: 0.3855
+Fold 4: 0.3935
+Fold 5: 0.4025
+semilla=640 | vec=binary | peso=distance | p=1 | k=4 → acc=0.39780000000000004
+Fold 1: 0.4005
+Fold 2: 0.3825
+Fold 3: 0.38
+Fold 4: 0.389
+Fold 5: 0.3845
+semilla=640 | vec=binary | peso=distance | p=1 | k=5 → acc=0.38730000000000003
+Fold 1: 0.402
+Fold 2: 0.381
+Fold 3: 0.3765
+Fold 4: 0.3825
+Fold 5: 0.383
+semilla=640 | vec=binary | peso=distance | p=1 | k=6 → acc=0.385
+Fold 1: 0.3895
+Fold 2: 0.3715
+Fold 3: 0.3705
+Fold 4: 0.3815
+Fold 5: 0.3805
+semilla=640 | vec=binary | peso=distance | p=1 | k=7 → acc=0.3787
+Fold 1: 0.3905
+Fold 2: 0.3685
+Fold 3: 0.3615
+Fold 4: 0.369
+Fold 5: 0.376
+semilla=640 | vec=binary | peso=distance | p=1 | k=10 → acc=0.3731
+Fold 1: 0.43
+Fold 2: 0.402
+Fold 3: 0.4
+Fold 4: 0.4235
+Fold 5: 0.4235
+semilla=640 | vec=binary | peso=distance | p=2 | k=3 → acc=0.41580000000000006
+Fold 1: 0.4105
+Fold 2: 0.397
+Fold 3: 0.3855
+Fold 4: 0.3935
+Fold 5: 0.4025
+semilla=640 | vec=binary | peso=distance | p=2 | k=4 → acc=0.39780000000000004
+Fold 1: 0.4005
+Fold 2: 0.3825
+Fold 3: 0.38
+Fold 4: 0.389
+Fold 5: 0.3845
+semilla=640 | vec=binary | peso=distance | p=2 | k=5 → acc=0.38730000000000003
+Fold 1: 0.402
+Fold 2: 0.381
+Fold 3: 0.3765
+Fold 4: 0.3825
+Fold 5: 0.3825
+semilla=640 | vec=binary | peso=distance | p=2 | k=6 → acc=0.3849
+Fold 1: 0.3895
+Fold 2: 0.3715
+Fold 3: 0.3705
+Fold 4: 0.3815
+Fold 5: 0.38
+semilla=640 | vec=binary | peso=distance | p=2 | k=7 → acc=0.37859999999999994
+Fold 1: 0.3915
+Fold 2: 0.3685
+Fold 3: 0.3605
+Fold 4: 0.369
+Fold 5: 0.374
+semilla=640 | vec=binary | peso=distance | p=2 | k=10 → acc=0.37270000000000003
+Fold 1: 0.55
+Fold 2: 0.542
+Fold 3: 0.55
+Fold 4: 0.539
+Fold 5: 0.531
+semilla=640 | vec=tf | peso=uniform | p=1 | k=3 → acc=0.5424
+Fold 1: 0.5345
+Fold 2: 0.523
+Fold 3: 0.5385
+Fold 4: 0.514
+Fold 5: 0.504
+semilla=640 | vec=tf | peso=uniform | p=1 | k=4 → acc=0.5228
+Fold 1: 0.5245
+Fold 2: 0.5135
+Fold 3: 0.536
+Fold 4: 0.512
+Fold 5: 0.5005
+semilla=640 | vec=tf | peso=uniform | p=1 | k=5 → acc=0.5173
+Fold 1: 0.518
+Fold 2: 0.512
+Fold 3: 0.528
+Fold 4: 0.4995
+Fold 5: 0.4985
+semilla=640 | vec=tf | peso=uniform | p=1 | k=6 → acc=0.5112
+Fold 1: 0.5125
+Fold 2: 0.504
+Fold 3: 0.5105
+Fold 4: 0.4895
+Fold 5: 0.495
+semilla=640 | vec=tf | peso=uniform | p=1 | k=7 → acc=0.5023
+Fold 1: 0.491
+Fold 2: 0.495
+Fold 3: 0.4935
+Fold 4: 0.473
+Fold 5: 0.483
+semilla=640 | vec=tf | peso=uniform | p=1 | k=10 → acc=0.48710000000000003
+Fold 1: 0.7545
+Fold 2: 0.76
+Fold 3: 0.7575
+Fold 4: 0.727
+Fold 5: 0.7505
+semilla=640 | vec=tf | peso=uniform | p=2 | k=3 → acc=0.7498999999999999
+Fold 1: 0.76
+Fold 2: 0.7615
+Fold 3: 0.76
+Fold 4: 0.7305
+Fold 5: 0.7395
+semilla=640 | vec=tf | peso=uniform | p=2 | k=4 → acc=0.7503000000000001
+Fold 1: 0.7625
+Fold 2: 0.771
+Fold 3: 0.772
+Fold 4: 0.744
+Fold 5: 0.762
+semilla=640 | vec=tf | peso=uniform | p=2 | k=5 → acc=0.7623
+Fold 1: 0.7645
+Fold 2: 0.7575
+Fold 3: 0.766
+Fold 4: 0.7395
+Fold 5: 0.766
+semilla=640 | vec=tf | peso=uniform | p=2 | k=6 → acc=0.7586999999999999
+Fold 1: 0.7715
+Fold 2: 0.774
+Fold 3: 0.7775
+Fold 4: 0.7495
+Fold 5: 0.7675
+semilla=640 | vec=tf | peso=uniform | p=2 | k=7 → acc=0.768
+Fold 1: 0.768
+Fold 2: 0.771
+Fold 3: 0.773
+Fold 4: 0.757
+Fold 5: 0.7765
+semilla=640 | vec=tf | peso=uniform | p=2 | k=10 → acc=0.7691000000000001
+Fold 1: 0.5575
+Fold 2: 0.5485
+Fold 3: 0.559
+Fold 4: 0.545
+Fold 5: 0.5325
+semilla=640 | vec=tf | peso=distance | p=1 | k=3 → acc=0.5485
+Fold 1: 0.5435
+Fold 2: 0.5315
+Fold 3: 0.539
+Fold 4: 0.5255
+Fold 5: 0.518
+semilla=640 | vec=tf | peso=distance | p=1 | k=4 → acc=0.5315
+Fold 1: 0.528
+Fold 2: 0.516
+Fold 3: 0.535
+Fold 4: 0.516
+Fold 5: 0.5055
+semilla=640 | vec=tf | peso=distance | p=1 | k=5 → acc=0.5201
+Fold 1: 0.5205
+Fold 2: 0.5205
+Fold 3: 0.5285
+Fold 4: 0.5115
+Fold 5: 0.509
+semilla=640 | vec=tf | peso=distance | p=1 | k=6 → acc=0.518
+Fold 1: 0.516
+Fold 2: 0.509
+Fold 3: 0.514
+Fold 4: 0.4955
+Fold 5: 0.499
+semilla=640 | vec=tf | peso=distance | p=1 | k=7 → acc=0.5067
+Fold 1: 0.494
+Fold 2: 0.502
+Fold 3: 0.492
+Fold 4: 0.4785
+Fold 5: 0.4915
+semilla=640 | vec=tf | peso=distance | p=1 | k=10 → acc=0.4915999999999999
+Fold 1: 0.7665
+Fold 2: 0.754
+Fold 3: 0.758
+Fold 4: 0.735
+Fold 5: 0.755
+semilla=640 | vec=tf | peso=distance | p=2 | k=3 → acc=0.7537
+Fold 1: 0.7705
+Fold 2: 0.767
+Fold 3: 0.767
+Fold 4: 0.746
+Fold 5: 0.758
+semilla=640 | vec=tf | peso=distance | p=2 | k=4 → acc=0.7617
+Fold 1: 0.767
+Fold 2: 0.7765
+Fold 3: 0.773
+Fold 4: 0.7525
+Fold 5: 0.7625
+semilla=640 | vec=tf | peso=distance | p=2 | k=5 → acc=0.7663
+Fold 1: 0.781
+Fold 2: 0.779
+Fold 3: 0.776
+Fold 4: 0.756
+Fold 5: 0.768
+semilla=640 | vec=tf | peso=distance | p=2 | k=6 → acc=0.772
+Fold 1: 0.7775
+Fold 2: 0.778
+Fold 3: 0.781
+Fold 4: 0.753
+Fold 5: 0.7735
+semilla=640 | vec=tf | peso=distance | p=2 | k=7 → acc=0.7726
+Fold 1: 0.775
+Fold 2: 0.7775
+Fold 3: 0.7785
+Fold 4: 0.7665
+Fold 5: 0.7825
+semilla=640 | vec=tf | peso=distance | p=2 | k=10 → acc=0.776
+Fold 1: 0.254
+Fold 2: 0.256
+Fold 3: 0.257
+Fold 4: 0.257
+Fold 5: 0.256
+semilla=640 | vec=tfidf | peso=uniform | p=1 | k=3 → acc=0.256
+Fold 1: 0.254
+Fold 2: 0.256
+Fold 3: 0.257
+Fold 4: 0.257
+Fold 5: 0.256
+semilla=640 | vec=tfidf | peso=uniform | p=1 | k=4 → acc=0.256
+Fold 1: 0.2545
+Fold 2: 0.254
+Fold 3: 0.2565
+Fold 4: 0.255
+Fold 5: 0.2535
+semilla=640 | vec=tfidf | peso=uniform | p=1 | k=5 → acc=0.25470000000000004
+Fold 1: 0.2545
+Fold 2: 0.254
+Fold 3: 0.2565
+Fold 4: 0.255
+Fold 5: 0.2535
+semilla=640 | vec=tfidf | peso=uniform | p=1 | k=6 → acc=0.25470000000000004
+Fold 1: 0.2545
+Fold 2: 0.2535
+Fold 3: 0.2555
+Fold 4: 0.2545
+Fold 5: 0.253
+semilla=640 | vec=tfidf | peso=uniform | p=1 | k=7 → acc=0.2542
+Fold 1: 0.2545
+Fold 2: 0.2535
+Fold 3: 0.2555
+Fold 4: 0.2535
+Fold 5: 0.2525
+semilla=640 | vec=tfidf | peso=uniform | p=1 | k=10 → acc=0.2539
+Fold 1: 0.383
+Fold 2: 0.376
+Fold 3: 0.4005
+Fold 4: 0.397
+Fold 5: 0.3925
+semilla=640 | vec=tfidf | peso=uniform | p=2 | k=3 → acc=0.38980000000000004
+Fold 1: 0.363
+Fold 2: 0.3465
+Fold 3: 0.376
+Fold 4: 0.3605
+Fold 5: 0.367
+semilla=640 | vec=tfidf | peso=uniform | p=2 | k=4 → acc=0.36260000000000003
+Fold 1: 0.3515
+Fold 2: 0.3465
+Fold 3: 0.375
+Fold 4: 0.3605
+Fold 5: 0.352
+semilla=640 | vec=tfidf | peso=uniform | p=2 | k=5 → acc=0.3571
+Fold 1: 0.3425
+Fold 2: 0.3435
+Fold 3: 0.3595
+Fold 4: 0.347
+Fold 5: 0.34
+semilla=640 | vec=tfidf | peso=uniform | p=2 | k=6 → acc=0.34650000000000003
+Fold 1: 0.3405
+Fold 2: 0.3375
+Fold 3: 0.3455
+Fold 4: 0.331
+Fold 5: 0.3295
+semilla=640 | vec=tfidf | peso=uniform | p=2 | k=7 → acc=0.33680000000000004
+Fold 1: 0.336
+Fold 2: 0.3215
+Fold 3: 0.3265
+Fold 4: 0.308
+Fold 5: 0.312
+semilla=640 | vec=tfidf | peso=uniform | p=2 | k=10 → acc=0.32080000000000003
+Fold 1: 0.255
+Fold 2: 0.2565
+Fold 3: 0.257
+Fold 4: 0.2575
+Fold 5: 0.257
+semilla=640 | vec=tfidf | peso=distance | p=1 | k=3 → acc=0.2566
+Fold 1: 0.255
+Fold 2: 0.2565
+Fold 3: 0.257
+Fold 4: 0.2575
+Fold 5: 0.257
+semilla=640 | vec=tfidf | peso=distance | p=1 | k=4 → acc=0.2566
+Fold 1: 0.2555
+Fold 2: 0.255
+Fold 3: 0.2565
+Fold 4: 0.256
+Fold 5: 0.255
+semilla=640 | vec=tfidf | peso=distance | p=1 | k=5 → acc=0.2556
+Fold 1: 0.2555
+Fold 2: 0.255
+Fold 3: 0.256
+Fold 4: 0.256
+Fold 5: 0.255
+semilla=640 | vec=tfidf | peso=distance | p=1 | k=6 → acc=0.25549999999999995
+Fold 1: 0.2555
+Fold 2: 0.2545
+Fold 3: 0.2555
+Fold 4: 0.2555
+Fold 5: 0.2545
+semilla=640 | vec=tfidf | peso=distance | p=1 | k=7 → acc=0.2551
+Fold 1: 0.2555
+Fold 2: 0.2545
+Fold 3: 0.2555
+Fold 4: 0.2555
+Fold 5: 0.254
+semilla=640 | vec=tfidf | peso=distance | p=1 | k=10 → acc=0.255
+Fold 1: 0.3915
+Fold 2: 0.3815
+Fold 3: 0.408
+Fold 4: 0.4115
+Fold 5: 0.405
+semilla=640 | vec=tfidf | peso=distance | p=2 | k=3 → acc=0.3995
+Fold 1: 0.3775
+Fold 2: 0.3585
+Fold 3: 0.3885
+Fold 4: 0.377
+Fold 5: 0.3915
+semilla=640 | vec=tfidf | peso=distance | p=2 | k=4 → acc=0.3786
+Fold 1: 0.356
+Fold 2: 0.35
+Fold 3: 0.3805
+Fold 4: 0.3645
+Fold 5: 0.357
+semilla=640 | vec=tfidf | peso=distance | p=2 | k=5 → acc=0.36160000000000003
+Fold 1: 0.354
+Fold 2: 0.352
+Fold 3: 0.369
+Fold 4: 0.3575
+Fold 5: 0.3555
+semilla=640 | vec=tfidf | peso=distance | p=2 | k=6 → acc=0.3576
+Fold 1: 0.3475
+Fold 2: 0.3425
+Fold 3: 0.349
+Fold 4: 0.335
+Fold 5: 0.333
+semilla=640 | vec=tfidf | peso=distance | p=2 | k=7 → acc=0.3414
+Fold 1: 0.3415
+Fold 2: 0.3305
+Fold 3: 0.34
+Fold 4: 0.3145
+Fold 5: 0.324
+semilla=640 | vec=tfidf | peso=distance | p=2 | k=10 → acc=0.3301
+
+
+=== TOP 3 MEJORES CONFIGURACIONES ===
+    semilla vectorizer      peso  p   k  avg_acc
+47      640         tf  distance  2  10   0.7760
+46      640         tf  distance  2   7   0.7726
+45      640         tf  distance  2   6   0.7720
+
+=== 2 PEORES CONFIGURACIONES ===
+    semilla vectorizer     peso  p   k  avg_acc
+53      640      tfidf  uniform  1  10   0.2539
+52      640      tfidf  uniform  1   7   0.2542
+
+
